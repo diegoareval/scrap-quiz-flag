@@ -1,5 +1,6 @@
-import { CONTINENTS, getScrappingUrl } from './constants';
+import { CONTINENTS } from './constants';
 import inquirer from "inquirer"
+import { extractData } from './lib/scrapper';
 
 // program title
 function title(){
@@ -27,8 +28,7 @@ async function start(){
  
  const {CONTINENT} = await answers;
  const continent = CONTINENTS.filter((continent)=> continent.name === CONTINENT)[0].key;
- const url = getScrappingUrl(continent)
- console.log(url);
+ extractData(continent);
  
 }
 
