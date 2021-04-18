@@ -1,0 +1,289 @@
+[
+  {
+    "area": "91",
+    "population": "14869",
+    "url": "/anguilla",
+    "name": "Anguilla",
+    "img": "ai.png"
+  },
+  {
+    "area": "442",
+    "population": "96453",
+    "url": "/antigua-and-barbuda",
+    "name": "Antigua and Barbuda",
+    "img": "ag.png"
+  },
+  {
+    "area": "180",
+    "population": "112309",
+    "url": "/aruba",
+    "name": "Aruba",
+    "img": "aw.png"
+  },
+  {
+    "area": "13943",
+    "population": "385340",
+    "url": "/the-bahamas",
+    "name": "Bahamas",
+    "img": "bs.png"
+  },
+  {
+    "area": "430",
+    "population": "287025",
+    "url": "/barbados",
+    "name": "Barbados",
+    "img": "bb.png"
+  },
+  {
+    "area": "22966",
+    "population": "408487",
+    "url": "/belize",
+    "name": "Belize",
+    "img": "bz.png"
+  },
+  {
+    "area": "54",
+    "population": "64027",
+    "url": "/bermuda",
+    "name": "Bermuda",
+    "img": "bm.png"
+  },
+  {
+    "area": "9984670",
+    "population": "37935814",
+    "url": "/canada",
+    "name": "Canada",
+    "img": "ca.png"
+  },
+  {
+    "area": "328",
+    "population": "25157",
+    "url": "/caribbean-netherlands",
+    "name": "Caribbean Netherlands",
+    "img": "bq.png"
+  },
+  {
+    "area": "264",
+    "population": "65813",
+    "url": "/cayman-islands",
+    "name": "Cayman Islands",
+    "img": "ky.png"
+  },
+  {
+    "area": "51100",
+    "population": "5058007",
+    "url": "/costa-rica",
+    "name": "Costa Rica",
+    "img": "cr.png"
+  },
+  {
+    "area": "109884",
+    "population": "11209628",
+    "url": "/cuba",
+    "name": "Cuba",
+    "img": "cu.png"
+  },
+  {
+    "area": "444",
+    "population": "158665",
+    "url": "/curacao",
+    "name": "Curaçao",
+    "img": "cw.png"
+  },
+  {
+    "area": "751",
+    "population": "71808",
+    "url": "/dominica",
+    "name": "Dominica",
+    "img": "dm.png"
+  },
+  {
+    "area": "48671",
+    "population": "10358320",
+    "url": "/the-dominican-republic",
+    "name": "Dominican Republic",
+    "img": "do.png"
+  },
+  {
+    "area": "21041",
+    "population": "6704864",
+    "url": "/el-salvador",
+    "name": "El Salvador",
+    "img": "sv.png"
+  },
+  {
+    "area": "2166090",
+    "population": "56081",
+    "url": "/greenland",
+    "name": "Greenland",
+    "img": "gl.png"
+  },
+  {
+    "area": "344",
+    "population": "112003",
+    "url": "/grenada",
+    "name": "Grenada",
+    "img": "gd.png"
+  },
+  {
+    "area": "1628",
+    "population": "395700",
+    "url": "/guadeloupe",
+    "name": "Guadeloupe",
+    "img": "gp.png"
+  },
+  {
+    "area": "108889",
+    "population": "16604026",
+    "url": "/guatemala",
+    "name": "Guatemala",
+    "img": "gt.png"
+  },
+  {
+    "area": "27750",
+    "population": "11577779",
+    "url": "/haiti",
+    "name": "Haiti",
+    "img": "ht.png"
+  },
+  {
+    "area": "112492",
+    "population": "9158345",
+    "url": "/honduras",
+    "name": "Honduras",
+    "img": "hn.png"
+  },
+  {
+    "area": "10991",
+    "population": "2726667",
+    "url": "/jamaica",
+    "name": "Jamaica",
+    "img": "jm.png"
+  },
+  {
+    "area": "1128",
+    "population": "376480",
+    "url": "/martinique",
+    "name": "Martinique",
+    "img": "mq.png"
+  },
+  {
+    "area": "1964380",
+    "population": "126577691",
+    "url": "/mexico",
+    "name": "Mexico",
+    "img": "mx.png"
+  },
+  {
+    "area": "102",
+    "population": "4989",
+    "url": "/montserrat",
+    "name": "Montserrat",
+    "img": "ms.png"
+  },
+  {
+    "area": "130373",
+    "population": "6460411",
+    "url": "/nicaragua",
+    "name": "Nicaragua",
+    "img": "ni.png"
+  },
+  {
+    "area": "75417",
+    "population": "4218808",
+    "url": "/panama",
+    "name": "Panama",
+    "img": "pa.png"
+  },
+  {
+    "area": "8870",
+    "population": "3193694",
+    "url": "/puerto-rico",
+    "name": "Puerto Rico",
+    "img": "pr.png"
+  },
+  {
+    "area": "21",
+    "population": "9793",
+    "url": "/saint-barthelemy",
+    "name": "Saint Barthélemy",
+    "img": "bl.png"
+  },
+  {
+    "area": "261",
+    "population": "52823",
+    "url": "/saint-kitts-and-nevis",
+    "name": "Saint Kitts and Nevis",
+    "img": "kn.png"
+  },
+  {
+    "area": "616",
+    "population": "178696",
+    "url": "/saint-lucia",
+    "name": "Saint Lucia",
+    "img": "lc.png"
+  },
+  {
+    "area": "53",
+    "population": "35107",
+    "url": "/saint-martin",
+    "name": "Saint Martin",
+    "img": "mf.png"
+  },
+  {
+    "area": "242",
+    "population": "6008",
+    "url": "/saint-pierre-and-miquelon",
+    "name": "Saint Pierre and Miquelon",
+    "img": "pm.png"
+  },
+  {
+    "area": "389",
+    "population": "110608",
+    "url": "/saint-vincent-and-the-grenadines",
+    "name": "Saint Vincent and the Grenadines",
+    "img": "vc.png"
+  },
+  {
+    "area": "34",
+    "population": "40614",
+    "url": "/sint-maarten",
+    "name": "Sint Maarten",
+    "img": "sx.png"
+  },
+  {
+    "area": "948",
+    "population": "41369",
+    "url": "/turks-and-caicos-islands",
+    "name": "Turks and Caicos Islands",
+    "img": "tc.png"
+  },
+  {
+    "area": "9833520",
+    "population": "329345637",
+    "url": "/the-united-states",
+    "name": "United States",
+    "img": "us.png"
+  },
+  {
+    "area": "34",
+    "population": "300",
+    "url": "/united-states-minor-outlying-islands",
+    "name": "United States Minor Outlying Islands",
+    "img": "um.png"
+  },
+  {
+    "area": "151",
+    "population": "30030",
+    "url": "/british-virgin-islands",
+    "name": "British Virgin Islands",
+    "img": "vg.png"
+  },
+  {
+    "area": "347",
+    "population": "104578",
+    "url": "/united-states-virgin-islands",
+    "name": "United States Virgin Islands",
+    "img": "vi.png"
+  }
+]
